@@ -1,0 +1,15 @@
+/home/egga11/Documentos/ProgramacionEstruturada/week2/obj/Debug/net6.0/week2.csproj.AssemblyReference.cache
+/home/egga11/Documentos/ProgramacionEstruturada/week2/obj/Debug/net6.0/week2.GeneratedMSBuildEditorConfig.editorconfig
+/home/egga11/Documentos/ProgramacionEstruturada/week2/obj/Debug/net6.0/week2.AssemblyInfoInputs.cache
+/home/egga11/Documentos/ProgramacionEstruturada/week2/obj/Debug/net6.0/week2.AssemblyInfo.cs
+/home/egga11/Documentos/ProgramacionEstruturada/week2/obj/Debug/net6.0/week2.csproj.CoreCompileInputs.cache
+/home/egga11/Documentos/ProgramacionEstruturada/week2/bin/Debug/net6.0/week2
+/home/egga11/Documentos/ProgramacionEstruturada/week2/bin/Debug/net6.0/week2.deps.json
+/home/egga11/Documentos/ProgramacionEstruturada/week2/bin/Debug/net6.0/week2.runtimeconfig.json
+/home/egga11/Documentos/ProgramacionEstruturada/week2/bin/Debug/net6.0/week2.dll
+/home/egga11/Documentos/ProgramacionEstruturada/week2/bin/Debug/net6.0/ref/week2.dll
+/home/egga11/Documentos/ProgramacionEstruturada/week2/bin/Debug/net6.0/week2.pdb
+/home/egga11/Documentos/ProgramacionEstruturada/week2/obj/Debug/net6.0/week2.dll
+/home/egga11/Documentos/ProgramacionEstruturada/week2/obj/Debug/net6.0/ref/week2.dll
+/home/egga11/Documentos/ProgramacionEstruturada/week2/obj/Debug/net6.0/week2.pdb
+/home/egga11/Documentos/ProgramacionEstruturada/week2/obj/Debug/net6.0/week2.genruntimeconfig.cache

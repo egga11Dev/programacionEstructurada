@@ -1,0 +1,15 @@
+/home/egga11/Documentos/ProgramacionEstruturada/week6/bin/Debug/net6.0/week6
+/home/egga11/Documentos/ProgramacionEstruturada/week6/bin/Debug/net6.0/week6.deps.json
+/home/egga11/Documentos/ProgramacionEstruturada/week6/bin/Debug/net6.0/week6.runtimeconfig.json
+/home/egga11/Documentos/ProgramacionEstruturada/week6/bin/Debug/net6.0/week6.dll
+/home/egga11/Documentos/ProgramacionEstruturada/week6/bin/Debug/net6.0/ref/week6.dll
+/home/egga11/Documentos/ProgramacionEstruturada/week6/bin/Debug/net6.0/week6.pdb
+/home/egga11/Documentos/ProgramacionEstruturada/week6/obj/Debug/net6.0/week6.csproj.AssemblyReference.cache
+/home/egga11/Documentos/ProgramacionEstruturada/week6/obj/Debug/net6.0/week6.GeneratedMSBuildEditorConfig.editorconfig
+/home/egga11/Documentos/ProgramacionEstruturada/week6/obj/Debug/net6.0/week6.AssemblyInfoInputs.cache
+/home/egga11/Documentos/ProgramacionEstruturada/week6/obj/Debug/net6.0/week6.AssemblyInfo.cs
+/home/egga11/Documentos/ProgramacionEstruturada/week6/obj/Debug/net6.0/week6.csproj.CoreCompileInputs.cache
+/home/egga11/Documentos/ProgramacionEstruturada/week6/obj/Debug/net6.0/week6.dll
+/home/egga11/Documentos/ProgramacionEstruturada/week6/obj/Debug/net6.0/ref/week6.dll
+/home/egga11/Documentos/ProgramacionEstruturada/week6/obj/Debug/net6.0/week6.pdb
+/home/egga11/Documentos/ProgramacionEstruturada/week6/obj/Debug/net6.0/week6.genruntimeconfig.cache
